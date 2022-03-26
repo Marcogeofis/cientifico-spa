@@ -17,7 +17,7 @@ const Character = async () => {
         <h3>Gender: <span>${character.gender}</span></h3>
         <h3>Origin: <span>${character.origin.name}</span></h3>
         <h3>Last Location: ${character.location.name}</h3>
-      </article>
+      </article>     
     </div>
   `;
   return view;
