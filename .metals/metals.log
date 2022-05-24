@@ -2,3 +2,9 @@
 [0m2022.03.26 16:04:43 INFO  time: initialize in 1.19s[0m
 [0m2022.03.26 16:04:45 WARN  Build server is not auto-connectable.[0m
 [0m2022.03.26 16:04:45 WARN  no build tool detected in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/complemento_HTML_CSS_JS/curso_vainilla/curso-spa-02-deploy-travis'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.03.26 18:52:55 INFO  shutting down Metals[0m
+[0m2022.03.30 01:35:17 INFO  Started: Metals version 0.10.9 in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/complemento_HTML_CSS_JS/curso_vainilla/curso-spa-02-deploy-travis' for client Visual Studio Code 1.58.2.[0m
+[0m2022.03.30 01:35:17 INFO  time: initialize in 0.8s[0m
+[0m2022.03.30 01:35:19 WARN  Build server is not auto-connectable.[0m
+[0m2022.03.30 01:35:19 WARN  no build tool detected in workspace '/home/Jahrebel/Documentos/cursos_de_Platzi/Curso_html_css3_js/complemento_HTML_CSS_JS/curso_vainilla/curso-spa-02-deploy-travis'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.03.30 01:42:06 INFO  shutting down Metals[0m
